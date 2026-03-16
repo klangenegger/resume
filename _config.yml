@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "kasia"
-resume_title:                   "human"
+resume_name:                    "kasia langenegger"
+resume_title:                   "human or smth "
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisasimpson@youremailaddress.com"
